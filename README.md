@@ -1,6 +1,6 @@
 # Langton's Ant Simulation
 
-A Python implementation of Langton's Ant cellular automaton with visualization, dataset generation, and highway detection capabilities.
+A Python implementation of Langton's Ant cellular automaton with visualization, dataset generation, and highway detection capabilities. It has been written entirely by Claude code.
 
 ## Features
 
