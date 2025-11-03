@@ -34,6 +34,9 @@ python visualize.py
 - `+/-`: Zoom in/out
 - `Q` or `ESC`: Quit
 
+![Running simulation](simulation.png)
+![Highway appears](highway.png)
+
 ### Generate a Dataset
 
 ```bash
